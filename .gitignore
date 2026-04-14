@@ -6,3 +6,6 @@ __pycache__/
 examples/output/
 dist/
 build/
+.ipynb_checkpoints/
+notebooks/*.csv
+notebooks/*.json
