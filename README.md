@@ -1,5 +1,7 @@
 # Pygmalion
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EduardoMVA/pygmalion/blob/main/notebooks/tutorial.ipynb)
+
 Librería local de Python para generación de datos sintéticos tabulares single-table, guiada por JSON explícito.
 
 ## Principios
